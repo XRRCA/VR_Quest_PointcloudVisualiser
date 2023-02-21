@@ -8,7 +8,7 @@ For running in the Quest 2, import as Texture2D for use with the [Visual Effects
 
 System Requirements
 -------------------
-- Unity 2021.6
+- Unity 2021.3
 
 #### If building standalone android
 - [Oculus ADB Drivers](https://developer.oculus.com/downloads/package/oculus-adb-drivers/?locale=en_GB)
