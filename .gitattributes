@@ -112,6 +112,7 @@
 *.3dm lfs
 *.bin lfs
 *.glb lfs
+*.ply lfs
 
 # Executables
 *.exe lfs
